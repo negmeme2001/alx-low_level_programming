@@ -1,5 +1,5 @@
-#ifndef _negmo_H_
-#define _negmo_H_
+#ifndef NEGMO_H
+#define NEGMO_H
 /**
  * _putchar - writes the character c to std
  * @c: parameter to compare
