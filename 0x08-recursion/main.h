@@ -25,5 +25,6 @@ int _sqrt_recursion(int n);
  * Return: boolean
  */
 int is_palindrome(char *s);
+int wildcmp(char *s1, char *s2);
 
 #endif
