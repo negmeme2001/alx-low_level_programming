@@ -19,5 +19,11 @@ int is_prime_number(int n);
  * Return: int value
  */
 int _sqrt_recursion(int n);
+/**
+ * is_palindrome - is palindrome
+ * @s: string to do
+ * Return: boolean
+ */
+int is_palindrome(char *s);
 
 #endif
